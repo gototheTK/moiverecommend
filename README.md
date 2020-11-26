@@ -1,4 +1,5 @@
-# MovieRecommending
+# MovieRecommendingApp
+# 영화 추천 앱
 
 
 <img src="https://github.com/gototheTK/moiverecommend/blob/master/%EC%BA%A1%EC%B3%90%EB%B3%B83.png?raw=true" width="800" height="400">
